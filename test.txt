@@ -1,0 +1,309 @@
+All settings loaded, start with execution
+Step 1 - Open https://compare.switchon.vic.gov.au
+Loading started
+LOading finished
+Step 2 - Waiting for loading page and input filter value
+TypeError: 'undefined' is not a function (evaluating 'target.popover("destroy")')
+
+  https://compare.switchon.vic.gov.au/js/demo.js?1458177780:279
+  jquery.min.js:2
+  https://compare.switchon.vic.gov.au/js/demo.js?1458177780:280
+  https://compare.switchon.vic.gov.au/js/libs/jquery.validate.min.js?1443513675:32
+  https://compare.switchon.vic.gov.au/js/libs/jquery.validate.min.js?1443513675:27
+  https://compare.switchon.vic.gov.au/js/libs/jquery.validate.min.js?1443513675:13
+  https://compare.switchon.vic.gov.au/js/jquery-1.11.3.min.js:4
+  https://compare.switchon.vic.gov.au/js/jquery-1.11.3.min.js:4
+Loading started
+LOading finished
+step 3 - Waiting for loading page and continue input filter value
+
+    Error - Victorian Energy Compare - Switch On Victoria
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        $(function () {
+            $('input:radio, input:checkbox').checkedPolyfill();
+        });
+    
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create',google_ua_code,{'cookieDomain':google_analytics_cookie_domain});ga('send','pageview');
+
+
+
+
+    
+        
+            
+                Skip to main content
+            
+        
+    
+    
+        
+            
+                
+                    
+                        
+                            
+                        
+                    
+                
+                
+                    
+                        
+                            
+                                
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+        
+    
+    
+
+
+    
+        
+
+    
+        
+             
+        
+    
+
+
+    
+        
+            
+                
+                    
+                                                Page Unavailable
+                    
+
+                    SYSTEM ERROR - CIPC_ERROR_603: Unable to display page
+                
+            
+            
+        
+    
+
+
+
+
+
+        
+    
+    
+        
+            
+                
+                    
+                        
+                            Get the
+                                best deal 
+                        
+                        
+                            Compare
+                                offers with Victorian Energy Compare
+                            Why
+                                bother to switch
+                            
+                                Switching retailers or plans - the process
+                            Concessions
+                                & rebates
+                        
+                    
+                    
+                        
+                            More ways
+                                to save
+                        
+                        
+                            Top
+                                10 ways to save power
+                            Visit
+                                our interactive energy-efficient house
+                            Household
+                                electricity calculator
+                            Flexible
+                                pricing profiler
+                            Appliance
+                                calculator
+                            Energy
+                                Saver Incentive
+                            Saving
+                                with solar
+                            Switch
+                                On your house for Christmas
+                        
+                    
+                    
+                        
+                            Bills,
+                                pricing & meters
+                        
+                        
+                            How
+                                the electricity system works
+                            Understand
+                                your electricity bill
+                            Electricity
+                                bill shock
+                            Smart
+                                meters and how they work
+                            Smart
+                                meters, web portals and in-home displays
+                            Flexible
+                                pricing
+                            Community
+                                education programs
+                            Energy
+                                retail companies - contact list
+                            Complaints,
+                                safety and outages
+                        
+                    
+                    
+                        
+                            Electricity
+                                users like you
+                        
+                        
+                            Singles
+                                and couples
+                            Families
+                            
+                            Seniors
+                            
+                            Low
+                                income
+                            Rural
+                                and remote
+                            Small
+                                business
+                            Information
+                                in other languages
+                        
+                    
+                    
+                        
+                            About Switch
+                                On
+                        
+                        
+                            
+                                
+                                    News
+                                
+                            
+                            
+                                
+                                    Contact us
+                                
+                            
+                            
+                                For languages other than English, please call 136 186.
+                                
+                            
+                        
+                    
+                
+            
+        
+        
+            
+                
+                    
+                        
+                            Privacy
+                            
+                            Disclaimer
+                            
+                            Copyright
+                            
+                            Accessibility
+                            
+                            Sitemap
+                            
+                            Contact
+                                us
+                        
+                    
+
+                    
+                        
+                            twitter
+                            
+                            facebook
+                            
+                        
+                    
+                    
+                        
+                            Page last updated 17 October 2015
+                            Copyright 2015  Department of Economic Development,
+                                Jobs, Transport and Resources
+                            
+                        
+                    
+
+
+                
+            
+        
+    
+
+
+
+
+
+test completed
